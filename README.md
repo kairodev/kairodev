@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515649/16721/hands_up.gif?1643515649" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Kairo, Back-end developer from <img src="https://emojis.slackmojis.com/emojis/images/1643514916/9339/brazil.png?1643514916" width="13"/> Brazil.</p>
+<p>I'm Kairo, Python Back-end developer from <img src="https://emojis.slackmojis.com/emojis/images/1643514916/9339/brazil.png?1643514916" width="13"/> Brazil.</p>
 <h3>Languages, Frameworks and tools I use:</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />
