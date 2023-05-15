@@ -37,11 +37,6 @@ Technologies used: Laravel, Ajax <br>
 Link: <a href="https://consultacrt.com.br" target="_blank">consultacrt.com.br</a> 
 <br>
 
-> Conatede <br>
-About: Static website created for a clinic <br>
-Technologies used: Bootstrap <br>
-Link: <a href="https://www.conatede.com.br/" target="_blank">conatede.com.br</a> 
-
 ------------
 <p align="center">trz.kairodev@gmail.com
 </p>
