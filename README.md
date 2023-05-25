@@ -12,7 +12,7 @@
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-DD0031?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-blue?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-Codeigniter-blue?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="PHPUnit" src="https://img.shields.io/badge/-Codeigniter-blue?style=flat-square&logo=codeigniter&logoColor=white" />
 </p>
 <p>
