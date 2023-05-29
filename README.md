@@ -31,8 +31,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-1a73e8?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-![Kairodev's github stats](https://github-readme-stats.vercel.app/api?username=kairodev&show_icons=true&theme=github_dark&hide=stars,issues)
-
 <h3>Some projects I've developed:</h3>
 
 > Consulta CRT <br>
