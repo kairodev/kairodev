@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Kairo, Web developer from <img src="https://emojis.slackmojis.com/emojis/images/1643514916/9339/brazil.png?1643514916" width="13"/> <b>Pelotas, Brazil</b>.</p>
+<p>Welcome to my page! </br> I'm Kairo, Web developer from <img src="https://emojis.slackmojis.com/emojis/images/1643514916/9339/brazil.png?1643514916" width="13"/> <b>Brazil</b>.</p>
 
 <h3>Languages & Frameworks:</h3>
 <p>
