@@ -42,7 +42,8 @@ Link: <a href="https://consultacrt.com.br" target="_blank">consultacrt.com.br</a
 > ML-Consulta <br>
 About: Carry out detailed queries in an ad on the Mercado Livre marketplace <br>
 Technologies used: Python, Streamlit <br> 
-Link: <a href="https://ml-consulta.streamlit.app/" target="_blank">ml-consulta.streamlit.app</a> 
+Link: <a href="https://ml-consulta.streamlit.app/" target="_blank">ml-consulta.streamlit.app</a>
+Repository: <a href="https://github.com/kairodev/ml-consulta-produto" target="_blank">https://github.com/kairodev/ml-consulta-produto</a>
 <br>
 
 ------------
