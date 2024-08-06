@@ -30,7 +30,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-1a73e8?style=flat-square&logo=npm&logoColor=white" />
 </p>
-------------
+
 <p align="center">trz.kairodev@gmail.com
 </p>
 
