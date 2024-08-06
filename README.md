@@ -30,18 +30,6 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-1a73e8?style=flat-square&logo=npm&logoColor=white" />
 </p>
-
-<h3>Some projects I've developed:</h3>
-
-> Consulta CRT <br>
-About: System created in order to create "CRTS" and perform their consultation <br>
-Technologies used: Laravel, Ajax <br> 
-Link: <a href="https://consultacrt.com.br" target="_blank">consultacrt.com.br</a> 
-<br>
-
-> ML-Consulta <br>
-About: Carry out detailed queries in an ad on the Mercado Livre marketplace <br>
-Technologies used: Python, Streamlit <br> 
 Link: <a href="https://ml-consulta.streamlit.app/" target="_blank">ml-consulta.streamlit.app</a><br>
 Repository: <a href="https://github.com/kairodev/ml-consulta-produto" target="_blank">https://github.com/kairodev/ml-consulta-produto</a>
 <br>
