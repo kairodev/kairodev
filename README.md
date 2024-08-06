@@ -30,10 +30,6 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-1a73e8?style=flat-square&logo=npm&logoColor=white" />
 </p>
-Link: <a href="https://ml-consulta.streamlit.app/" target="_blank">ml-consulta.streamlit.app</a><br>
-Repository: <a href="https://github.com/kairodev/ml-consulta-produto" target="_blank">https://github.com/kairodev/ml-consulta-produto</a>
-<br>
-
 ------------
 <p align="center">trz.kairodev@gmail.com
 </p>
