@@ -36,7 +36,7 @@
 
 ### Tools & Databases  
 <div align="left">  
-<img src="https://skillicons.dev/icons?i=aws,gcp,nginx,docker,mysql,mongodb,postgresql,firebase,supabase,sqlite" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,nginx,docker,linux,windows,mysql,mongodb,postgresql,firebase,supabase,sqlite" />
 </div>
 
 
