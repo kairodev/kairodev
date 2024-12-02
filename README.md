@@ -1,10 +1,10 @@
 ### <div align="center">I'm Kairo, a back-end developer 👨‍💻</div>  
   
 
--  I’m currently working on own private CRM system  
+-  I'm currently working on own private CRM system  
   
 
--  I’m currently learning advanced automations in Python  
+-  I'm studying advanced automation and integration with the OpenAI API
   
 
 <br/>  
