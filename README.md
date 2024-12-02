@@ -17,7 +17,7 @@
 
 ### Frontend  
 <div align="left">  
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress" />
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ### Backend  
 <div align="left">  
-<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,django,nodejs,express,selenium" />
 </div>
 
 </td><td valign="top" width="33%">
